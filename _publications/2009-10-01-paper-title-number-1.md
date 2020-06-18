@@ -4,12 +4,12 @@ collection: publications
 permalink: /publication/2009-10-01-Test
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
+venue: ''
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://watermark.silverchair.com/nutritionreviews67-0132.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsUwggLBBgkqhkiG9w0BBwagggKyMIICrgIBADCCAqcGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM_cU3OUGRIyerKzTjAgEQgIICeIxLkz3PsChEnFip778fV6eJkaGaxqiKLZF4xIT6TbiroM-fSTsYroyfc9jvcfZqgf80Wl0zwSBITauuJJFqrWNPmX2R4PvFwKkbIfV7hmJce8BfDjOsUioInmlF0_UiFyA-RNNh-VNjD1hAk0UorCLjAtMeo4koB22hWKQE6_9CQ3RIhD_rH4_XtLYGSQ9vXTpthtpfNveJErTdzqjgCh-agkhhZ6NQCMDy8rLCrSe_TMVaVQyZvY1MFZ2xPIX77L5u8zE1sGbIX5dMviBo1sKBeIa-K1qK1_FPYawwWxwrPzJF1ZHt2IM1kNhwKRuJkrSCZh10Y0saBSSG_hvJuh1-EkQOPoq66NWF3VMsZUPrJNCFOaHNt_Zvt2sHD3soT6FjTKeLSGSUoaGKdzkHJ-GWZZKgveNq3aW66w5A_iK6G0mQNdNusG1oOPwAnD-S5XWaVLka1GBIY9gUadvkZc3G_gUDO5VtFOjs_rpuclZMUXCMSseJ1HNqbdvTYwWrgLQQPQr9N2A9AIsB6KxPa_kZ0T8UCzYeDeF8dguX2s7NGkl2x0eea0IPzVOwpcTFOlrBc1bgEzfPw83quNR-fu7okGOhvkIYKoN_uGZmajvwzhNVm2e2Som3ASAa1qsX3kfTqDZ4efNwj0cAJYXa8Y1ydmRZxbBzfo1Tje95WO5eL41zl-O4VfsDLzXoCm57gXNhxkoyc61SnBCi5t1AwVQye-5K66wNF11u8egRm3W3kSoou92K8aZQtq1Qmsp716DPReALracJT_c83Po8Hrvqd-xKQ7wDZP5u791Sdrkfkj_rNy-Bri78nXNk7DaTyyICBdJ6ra55)
 
-Roumen et al. (2009). "nog iets" Diabetic medicine.
+Lifestyle interventions are reported to reduce the risk of type 2 diabetes in  high-risk individuals after mid- and long-term follow-up. Information on  determinants of intervention outcome and adherence and the mechanisms underlying  diabetes progression are valuable for a more targeted implementation. Weight loss  seems a major determinant of diabetes risk reduction, whereas physical activity and  dietary composition may contribute independently. Body composition and genetic  variation may also affect the response to intervention. Lifestyle interventions are  cost-effective and should be optimized to increase adherence and compliance,  especially for individuals in the high-risk group with a low socioeconomic status,  so that public health policy can introduce targeted implementation programs  nationwide. The aims of this review are to summarize the mid- and long-term effects  of lifestyle interventions on impaired glucose tolerance and type 2 diabetes  mellitus and to provide determinants of intervention outcome and adherence, which  can be used for future implementation of lifestyle interventions.
