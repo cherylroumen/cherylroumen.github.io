@@ -1,5 +1,5 @@
 ---
-title: "Test."
+title: "Lifestyle intervention for prevention of diabetes: determinants of success for  future implementation."
 collection: publications
 permalink: /publication/2009-10-01-Test
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
