@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Lifestyle intervention for prevention of diabetes: determinants of success for  future implementation."
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'The aims of this review are to summarize the mid- and long-term effects  of lifestyle interventions on impaired glucose tolerance and type 2 diabetes  mellitus and to provide determinants of intervention outcome and adherence, which  can be used for future implementation of lifestyle interventions.'
+date: 2009-03-01
+venue: 'Nutrition  Reviews'
+paperurl: 'https://watermark.silverchair.com/nutritionreviews67-0132.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsUwggLBBgkqhkiG9w0BBwagggKyMIICrgIBADCCAqcGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM2xwgx-kt77fT22VcAgEQgIICeGphHbbOwBN92A1R548zzwgRxrLOCemgOs-7KZ5_x94eBEZUrPo0MJ_R39ageuQrp8yRbT0HODrkWMfLhh6QmQ9BtwFkdb7wOHOGQEhz5x-SQuz_F_WCj0V_fyTGZBWmt_g2gAm9CalqfTRgWoM0gKxW64TGHgxjFvoui85JWHDRt-UfquQx04dbsr55OZXNILW6wdMkSm_DlmX_jA-EVZeVQPup8ddjrYOvt8Qn4irBWzdzdFJ0rL1rviZ9vXk0X6_DRKhKTeowFrIaJt93yRqwohV18SQwQBcfDRlyBJ7mz7SAS20wHc6LdCBYvLfrVPrLI9pFEFci8vAvY19lK7XUhREU0UXRPAFH1fMJnu2c9sFaWU-ada5kPmUtpQukgg_Ol68_aQkqu2Dtkc5Lid5bbC8jpsHmAvZ5tNzby33n8PbU5Av75GS9HKjF7rELZVX7p_oRUBHwI7-c6NB0h9RgLNf0S1dRFXsEKgluhJDUc1FNzC0z8JWCeZN1PBQ3dJWEhSlY1kicbDgij-Hi8ueODgv2jT8F8FbrJQz9OCni1oim6RF4elzeRUJe5y4yfr5Sz4ullNJmo2DakFOLmvBBMNGbt3jALk7dO4aHtrCGIHi-mEGR19q5IIbHTwD8wNlxlsRNLvWzjLoXFvJRJTkx_dY0swVNiN3a5Sy5hgJJQX4n-265Kpn3v0x_7Cno_U6CWmyvx6-KtdNXBdSwcZeA38AJyFFOkYa_853OZ1sXocznJoQGgaQLJQT3HRF2zJOQljm9AYTzRjapFDmUe9WHtgDj88d0TF85MdQT17qC_FMW74_D5Z-WcynWztZ-tHMyTUFJ_wI2'
+citation: 'Roumen C, Blaak EE, Corpeleijn E. Lifestyle intervention for prevention of diabetes: determinants of success for future implementation. Nutr Rev. 2009;67(3):132-146. doi:10.1111/j.1753-4887.2009.00181.x'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+Lifestyle interventions are reported to reduce the risk of type 2 diabetes in  high-risk individuals after mid- and long-term follow-up. Information on  determinants of intervention outcome and adherence and the mechanisms underlying  diabetes progression are valuable for a more targeted implementation. Weight loss  seems a major determinant of diabetes risk reduction, whereas physical activity and  dietary composition may contribute independently. Body composition and genetic  variation may also affect the response to intervention. Lifestyle interventions are  cost-effective and should be optimized to increase adherence and compliance,  especially for individuals in the high-risk group with a low socioeconomic status,  so that public health policy can introduce targeted implementation programs  nationwide. The aims of this review are to summarize the mid- and long-term effects  of lifestyle interventions on impaired glucose tolerance and type 2 diabetes  mellitus and to provide determinants of intervention outcome and adherence, which  can be used for future implementation of lifestyle interventions.
+[PDF](https://watermark.silverchair.com/nutritionreviews67-0132.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsUwggLBBgkqhkiG9w0BBwagggKyMIICrgIBADCCAqcGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM2xwgx-kt77fT22VcAgEQgIICeGphHbbOwBN92A1R548zzwgRxrLOCemgOs-7KZ5_x94eBEZUrPo0MJ_R39ageuQrp8yRbT0HODrkWMfLhh6QmQ9BtwFkdb7wOHOGQEhz5x-SQuz_F_WCj0V_fyTGZBWmt_g2gAm9CalqfTRgWoM0gKxW64TGHgxjFvoui85JWHDRt-UfquQx04dbsr55OZXNILW6wdMkSm_DlmX_jA-EVZeVQPup8ddjrYOvt8Qn4irBWzdzdFJ0rL1rviZ9vXk0X6_DRKhKTeowFrIaJt93yRqwohV18SQwQBcfDRlyBJ7mz7SAS20wHc6LdCBYvLfrVPrLI9pFEFci8vAvY19lK7XUhREU0UXRPAFH1fMJnu2c9sFaWU-ada5kPmUtpQukgg_Ol68_aQkqu2Dtkc5Lid5bbC8jpsHmAvZ5tNzby33n8PbU5Av75GS9HKjF7rELZVX7p_oRUBHwI7-c6NB0h9RgLNf0S1dRFXsEKgluhJDUc1FNzC0z8JWCeZN1PBQ3dJWEhSlY1kicbDgij-Hi8ueODgv2jT8F8FbrJQz9OCni1oim6RF4elzeRUJe5y4yfr5Sz4ullNJmo2DakFOLmvBBMNGbt3jALk7dO4aHtrCGIHi-mEGR19q5IIbHTwD8wNlxlsRNLvWzjLoXFvJRJTkx_dY0swVNiN3a5Sy5hgJJQX4n-265Kpn3v0x_7Cno_U6CWmyvx6-KtdNXBdSwcZeA38AJyFFOkYa_853OZ1sXocznJoQGgaQLJQT3HRF2zJOQljm9AYTzRjapFDmUe9WHtgDj88d0TF85MdQT17qC_FMW74_D5Z-WcynWztZ-tHMyTUFJ_wI2)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
