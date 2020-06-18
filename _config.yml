@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Cheryl Roumen, PhD"
 title_separator          : "-"
 name                     : &name "Cheryl Roumen, PhD"
 description              : &description "xxx"
@@ -86,7 +86,7 @@ author:
   location         : "Maastricht, The Netherlands"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Roumen++C+%5BAuthor%5D&sort=pubdate&size=200"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
