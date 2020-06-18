@@ -1,7 +1,7 @@
 ---
 title: "Lifestyle intervention for prevention of diabetes: determinants of success for  future implementation."
 collection: publications
-permalink: /publication/
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'The aims of this review are to summarize the mid- and long-term effects  of lifestyle interventions on impaired glucose tolerance and type 2 diabetes  mellitus and to provide determinants of intervention outcome and adherence, which  can be used for future implementation of lifestyle interventions.'
 date: 2009-03-01
 venue: 'Nutrition  Reviews'
