@@ -4,16 +4,16 @@ main:
     url: /publications/
 
   - title: "Presentations"
-    url: /talks/       
+    url: /talks/    
+
+  - title: "Events"
+    url: /teaching/    
     
   - title: "Grants"
     url: /portfolio/
         
   - title: "Blog"
     url: /year-archive/
-
-  - title: "Events"
-    url: /events/ 
     
   - title: "CV"
     url: /cv/
