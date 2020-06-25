@@ -1,7 +1,7 @@
 ---
 title: "To make the Topspecialist position Radiotherapy sustainable"
 excerpt: "Co-applicant, workpackage leader and project leader. ZonMW 3M Euro. March 2020"
-date: 
+date: March 27, 2020
 venue: 
 Amount: 
 paperurl: 
